@@ -1,2 +1,3 @@
 # CVIP-Internship / phase--2
-Simple Clock Web Application
+Task-1: Simple Clock Web Application
+Tak-2: Personalized Email Sender Script 
